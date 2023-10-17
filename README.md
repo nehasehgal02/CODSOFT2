@@ -1,4 +1,4 @@
-E COMMERCE LANDING PAGE
+# ShopCart
 
 • An interactive e-commerce platform where user can view the product details and shop online.
 
